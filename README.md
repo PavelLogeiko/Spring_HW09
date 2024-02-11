@@ -4,7 +4,8 @@
 
 ![1](https://github.com/PavelLogeiko/Spring_HW09/blob/main/errors/1.png)
 
-Если добавляю в application,properties
+Если добавляю в application.properties
+
 Spring.main.web-application-type=reactive
 
 ![2](https://github.com/PavelLogeiko/Spring_HW09/blob/main/errors/2.png)
